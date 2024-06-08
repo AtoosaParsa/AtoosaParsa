@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 I recently finished my PhD in Computer Science from [UVM](https://www.uvm.edu/cems/cs).
-- 🌟 I work on 
-- 👨‍💻 I also develop 
+- 🌟 I'm interested in embodied intelligence and the unconventional computing paradigm.
+- 👨‍💻 I also develop differentiable frameworks for automatic design and analysis of granular materials.
 - 📫 How to reach me: atoosa dot parsa at gmail dot com. Also, check out [my site](https://www.atoosaparsa.com/).
