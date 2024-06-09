@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🎓 I recently finished my PhD in Computer Science from [UVM](https://www.uvm.edu/cems/cs).
 - 🌟 I'm interested in embodied intelligence and unconventional computing paradigms.
-- 👨‍💻 In the past I've developed optimization frameworks to automatically design robotic structures with desirable macro-scale behaviors.
-- 🔭 I'm currently working on a data-driven framework based on the modern Koopman theory for the design and analysis of Computational Granular Metamaterials (CGMMs).
+- 👨‍💻 In the past I've developed optimization frameworks to automatically design robotic structures with desirable behaviors.
+- 🔭 I'm currently working on a data-driven framework based on the modern Koopman theory for dynamical analysis of granular materials.
 - 📫 How to reach me: atoosa [dot] parsa [at] gmail [dot] com. Also, check out [my site](https://www.atoosaparsa.com/).
