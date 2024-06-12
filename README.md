@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🎓 I recently finished my PhD in Computer Science from [UVM](https://www.uvm.edu/cems/cs).
 - 🌟 I'm interested in embodied intelligence and unconventional computing paradigms.
 - 👨‍💻 In the past I've developed several optimization pipelines for designing programmable robotic structures.
-- 🔭 I'm currently working on a data-driven framework based on the modern Koopman theory for modeling and analysis of granular materials.
+- 🔭 I'm currently working on a data-driven framework based on the modern Koopman theory for granular materials.
 - 📫 How to reach me: atoosa [dot] parsa [at] gmail [dot] com. Also, check out [my site](https://www.atoosaparsa.com/).
