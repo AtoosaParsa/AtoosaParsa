@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🌱 I am a Postdoctoral Fellow at the [Levin Lab](https://drmichaellevin.org/).
 - 🎓 I recently finished my PhD in Computer Science from [UVM](https://www.uvm.edu/cems/cs).
 - 🌟 I'm interested in the Embodied Intelligence and Unconventional Computing paradigm.
 - 👨‍💻 In the past I've developed several optimization pipelines for designing programmable robotic structures.
