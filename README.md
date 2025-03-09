@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 👨‍💻 In the past I've developed several optimization pipelines for designing programmable robotic structures.
 - 💻 I also have experience in developing end-to-end differentiable physics simulations.
 - 🔭 I'm currently working on a data-driven framework based on the modern Koopman theory for granular materials.
-- 📫 How to reach me: atoosa [dot] parsa [at] gmail [dot] com. Also, check out [my site](https://www.atoosaparsa.com/).
+- 📫 How to reach me: atoosa [dot] parsa [at] gmail [dot] com. Also, check out [my site](https://atoosaparsa.github.io/).
